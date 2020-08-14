@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">BiographyApp</string>
+    <string name="button1">Childhood and Early Life</string>
+    <string name="button2">Career</string>
+    <string name="button3">Achievements</string>
+    <string name="button4">Personal Life</string>
+    <string name="button5">Quotes</string>
+    <string name="text1">
+        Lionel Andres Messi Cuccittini was given birth to on June 24, 1987, in Rosario, Argentina, to a steel factory manager, Jorge Messi and his wife Celia Cuccittini.
+        Messi was the third of four children they gave birth to.
+        He grew up in a family where the game of football was adored.
+    </string>
+    <string name="text2">
+        At a tender age, he played with his elder brothers before joining a local club, Grandoli, before moving on to Newell’s Old Boys.
+        At Grandoli, Messi was coached by his father, but his grandmother accompanied him to his matches as well as training.
+        He was thus affected by her.
+        His unique style of celebration which involves looking up and pointing to the sky is a tribute to his late grandmother.
+    </string>
+    <string name="text3">
+        Messi’s dream of becoming a professional footballer was threatened when he clocked 10 years.
+        He was diagnosed with a growth hormone deficiency.
+        As a result of his family’s inability to bear the expense of his treatment, they resorted to football clubs who saw Messi as a potential to bear the cost.
+        After several setbacks, Messi’s treatment cost was paid for by Barcelona.
+        After his transfer to Barcelona, he did not make appearances regularly in matches due to transfer issues with Newell as well as the unusual signing of foreign plays by European Clubs.
+        After joining the Royal Spanish Football Federation, he began playing for Barcelona.
+        Upon completion of his growth hormone deficiency treatment, he became a force to reckon with in the Barcelona youth team.
+    </string>
+    <string name="text4">
+        He began playing from an early age, and his talent was soon apparent.
+        However, at the age of 11, Messi was diagnosed with growth hormone deficiency (GHD).
+        This was a condition that stunted growth and required expensive medical treatment, including the use of the drug Human growth hormone.
+        His local club, River Plate were interested in signing Messi but didn’t want to pay for his medical treatment.
+        However, Messi was given a trial with Barcelona, and coach Carles Rexach was impressed – offering Messi a contract (written on a paper napkin!) which included paying for Messi’s treatment in Spain.
+        Messi moved to Barcelona with his father and became part of the prestigious FC Barcelona youth academy.
+    </string>
+    <string name="text5">
+        “I made a lot of sacrifices by leaving Argentina, leaving my family to start a new life.
+        But everything I did, I did for football, to achieve my dream.
+        That’s why I didn’t go out partying, or do a lot of other things.”
+        – Lionel Messi.
+    </string>
+    <string name="text6">
+        Messi progressed through the ranks and was given his first appearance in the 2004/05 season becoming the youngest player to score a league goal.
+        In 2006, Messi was part of the double winning team which won both La Liga (Spanish League) and Champions League.
+        By next season, (2006-07) aged just 20, Messi was the first choice striker and an essential part of the Barcelona team – scoring 14 goals in 26 league games.
+    </string>
+    <string name="text7">
+        “My record stood for 40 years – 85 goals in a year – and now the best player in the world has broken it, and I’m delighted for him. He is an incredible player, gigantic.
+        – Gerd Muller.
+    </string>
+    <string name="text8">
+        At the start of 2013, in club football, Messi has scored 292 goals from a total of 359 appearances, and in international football, 31 goals from 76 appearances.
+        \n\n
+        At the end of 2012, Messi turned down a very lucrative offer to play for an unnamed Russian side.
+        It would have given Messi a salary of €20 million a year and made Messi the most expensive player in the world (Barcelona would have been paid €250 million).
+        He turned down the offer because he was unsure if he would be playing in major European championships and the difficulties in moving to Russia.
+        Instead, he signed a contract with Barcelona until the end of 2018.
+        When asked about moving to the English Premier League, Messi revealed his sense of commitment to Barcelona.
+    </string>
+    <string name="text9">
+        “Barcelona is my life. They have brought me to where I am today. I could not leave, I don’t want to leave. I know the Premier League is very good. But I cannot see myself playing in England because my heart is with Barcelona, always.”
+        – Lionel Messi.
+    </string>
+    <string name="text10">
+        Because Messi was brought up in Spain, since he was 11 years old, he has Spanish nationality.
+        In 2004, he was offered the chance to play for Spain’s Under 20 side, but Messi decided to play for Argentina, the country of his birth.
+        He led Argentina to victory in the 2005 FIFA Youth Championship.
+        Messi made his full international debut in August 2005, during a friendly against Hungary.
+        In his first game, Messi was sent off for allegedly elbowing a player.
+        The decision was contentious and not in keeping with Messi’s style of play which is generally clean and in the spirit of fair play; he has very rarely been accused of diving.
+        \n\n
+
+        In 2006, he participated in the World Cup, becoming Argentina’s youngest player to play in the world cup.
+        Argentina were eliminated in the quarter-finals.
+        In 2008, he won an Olympic gold medal for Argentina in football at the Beijing Olympics.
+        Initially, Barcelona had not allowed him permission to play, but new coach Pep Guardiola allowed him time off.
+        \n\n
+
+        In the 2010 World Cup, Messi wore the number 10 shirt and played well to help Argentina reach the quarter-finals, but Messi struggled to score, and Argentina disappointingly lost 4-0 to Germany in the quarter-final.
+        Messi has admitted he is desperate to play in a world cup final.
+        Success for Messi in the World Cup would be the last test of greatness.
+        Pele, by contrast, was part of Brazil’s three times winning World Cup side ’58, ’62 and ’70.
+        \n\n
+
+        Messi is widely regarded as one of the most exciting players of the modern age – in fact, any age.
+        He has a peerless ability to dribble and take on opponents. Maradona has described his ball control as supremely good.
+        “The ball stays glued to his foot; I’ve seen great players in my career, but I’ve never seen anyone with Messi’s ball control.”
+        Messi has said he wishes to retain the joy of how a child plays football.
+    </string>
+    <string name="text11">
+        Tournaments Won:
+    </string>
+    <string name="text12">
+
+        1. U-20 World Cup champion (2005)\n\n
+        2. Spanish Super Cup (Supercopa) (2005/06, 2006/07, 2009/10, 2010/11, 2011/12, 2013/14, 2016/17, 2018/19)\n\n
+        3. Spanish Cup (Copa del Rey) (2008/09, 2011/12, 2014/15, 2015/16, 2016/17,2017/18)\n\n
+        4. FIFA Club World Cup (2009, 2011, 2015)\n\n
+        5. UEFA Supercup (2009/10, 2011/12, 2015/16)\n\n
+        6. Olympics Medalist (2008/09)\n\n
+        7. Spanish Champion (La Liga) (2004/05 2005/06, 2008/09, 2009/10, 2010/11, 2012/13, 2014/15, 2015/16, 2017/18)\n\n
+        8. UEFA Champions League (2005/06, 2008/09, 2010/11, 2014/15)\n\n
+    </string>
+    <string name="text13">
+        Individual Awards:
+    </string>
+    <string name="text14">
+        * Ballon d Or (2009,2010,2011,2012,2015,2019)
+    </string>
+    <string name="text15">
+        * European Golden Shoe (2010,2012,2013,2017,2018,2019)
+    </string>
+    <string name="text16">
+        * Fifa Golden Ball (2014)
+    </string>
+    <string name="text17">
+        * FIFA POTY (FIFA World Player / FIFA Ballon d Or / FIFA The Best) (2009,2010,2011,2012,2015,2019)\n\n
+        * MVP Copa América (2015)\n\n
+        * UEFA Club Footballer of the Year (2009)\n\n
+        * UEFA Best Player in Europe Award (2011,2015)\n\n
+        * Spanish League Top Scorer (2010,2012,2013,2017,2018,2019,2020)\n\n
+        * Champions League Golden Boot (2009,2010,2011,2012,2015,2019)\n\n
+    </string>
+    <string name="text18">
+        Personal Life
+    </string>
+    <string name="text19">
+        On June 30, 2017, Messi married Antonella Roccuzzo, his longtime girlfriend and the cousin of his best friend and fellow soccer player Lucas Scaglia.
+        Messi and Roccuzzo have two sons together: Thiago, born in November 2012, Mateo, born in September 2015 and Ciro, born in March 2018.
+    </string>
+    <string name="text20">
+        Quotes
+    </string>
+    <string name="text21">
+        Lionel Messi will go down in history as one of the greatest ever footballers the world has ever seen – and it’s impossible to find the words to do his brilliance justice.
+        \n\n
+        The Argentina superstar has scored over double the number of goals of anyone else to have appeared for Barcelona in the history of the club.
+        He is nothing short of a phenomenon.\n\n
+
+        Rather than eulogise about Messi’s brilliance ourselves, we’ve collected some of the best tributes to the forward from some of the biggest figures in the game.
+        Nothing can do him justice, but there’s even glowing praise from Roy Keane in there so that’s something...\n\n
+    </string>
+    <string name="text22">
+        Diego Maradona:
+    </string>
+    <string name="text23">
+        “I have seen the player who will inherit my place in Argentine football and his name is Messi. Messi is a genius.”
+    </string>
+    <string name="text24">
+        Zlatan Ibrahimovic:
+    </string>
+    <string name="text25">
+        “Messi does not need his right foot. He only uses the left and he’s still the best in the world.
+        Imagine if he also used his right foot, then we would have serious problems.”
+    </string>
+    <string name="text26">
+        Hristo Stoichkov:
+    </string>
+    <string name="text27">
+        “Once they said they can only stop me with a pistol. Today you need a machine gun to stop Messi.”
+    </string>
+    <string name="text28">
+        Pep Guardiola:
+    </string>
+    <string name="text29">
+        “Don’t write about him, don’t try to describe him, just watch him.”
+    </string>
+    <string name="text30">
+        Roy Keane:
+    </string>
+    <string name="text31">
+        “I was a big fan of Maradona growing up and of the current crop Ronaldo is good, but Messi is the best I’ve ever seen.
+         I don’t dish out praise lightly, but Messi deserves it. I look for weaknesses in his game and I can’t find them.”
+    </string>
+    <string name="title">
+        Title
+    </string>
+    <string name="Message">
+        Do you want to exit?
+    </string>
+</resources>
